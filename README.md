@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Website Development Projects:</h2>
 
-  - [MealsonWheels](https://github.com/samuelaberenika/Mealsonwheels)
+  - [MealsonWheels](https://github.com/samuelaberenika/mealsonwheels)
 
 
 <h2> 📄 Certifications </h2>
