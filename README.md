@@ -10,7 +10,7 @@
 - [Google IT Support Professional](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
 
-<h2> Mini Projects</h2>
+<h2> 💻 Mini Projects</h2>
 
 - []
 - []
