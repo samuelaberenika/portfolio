@@ -1,4 +1,4 @@
-<h1>Hi, I'm Sam! <br/><a>Programmer,Software Engineer</a> 
+<h1>Hi, I'm Sam! <br/><a>Programmer, Software Engineer</a> 
 
 <h2>👨‍💻 Website Development Projects:</h2>
 
